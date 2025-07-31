@@ -3,7 +3,7 @@
 A stylish, responsive, and modern landing page for a fictional technology event – **TechFest 2025**. This project showcases strong HTML and CSS fundamentals, with attention to layout, design, responsiveness, and user experience.
 
 ## 🔗 Live Demo
-[Click here to view the live site](https://bhaskar-s04.github.io/portfolio-website/)
+[Click here to view the live site](https://bhaskar-s04.github.io/event-page/)
 
 ---
 
