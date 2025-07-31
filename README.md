@@ -31,8 +31,3 @@ A stylish, responsive, and modern landing page for a fictional technology event 
 - CSS3
 - Google Fonts
 - Responsive design using media queries
-
----
-
-## 📁 Project Structure
-
